@@ -1,0 +1,7 @@
+<layout id="WatchFace">
+    <label id="batteryStatus" x="center" y="15" font="Gfx.FONT_SYSTEM_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    <label id="clockMain" x="100" y="center" font="Gfx.FONT_SYSTEM_NUMBER_THAI_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+    <label id="clockSeconds" x="185" y="center" font="Gfx.FONT_SYSTEM_NUMBER_MILD" color="Gfx.COLOR_WHITE" />
+    <label id="hour12" x="185" y="108" font="Gfx.FONT_SYSTEM_MEDIUM" />
+    <label id="date" x="center" y="130" font="Gfx.FONT_SYSTEM_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+</layout>
